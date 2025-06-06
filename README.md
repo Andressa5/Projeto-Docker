@@ -1,3 +1,7 @@
+Aluna: Andressa Vitória Da Silva Macedo
+Turma:P5 - A Noite
+
+
 Como rodar o projeto
 
 Primeiro clone o repositoório para alguma pasta com o comando abaixo
@@ -17,3 +21,5 @@ OBS: Com o comando acima você faz o build e executa o docker, caso queira build
 docker compose build
 
 docker compose up
+
+
